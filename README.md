@@ -14,5 +14,5 @@ To get started, an API key is required to generate the cities. To get your API k
 In this deliverable, we used our weather data skills to plan future vacations. Also, we used Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 To get the API key for this part, visit https://myprojects.geoapify.com to get your own API key.
 
-## Note:
+### Note:
 The data used to plan a future vacation can be found under "output_data" in "cities.csv" file. 
